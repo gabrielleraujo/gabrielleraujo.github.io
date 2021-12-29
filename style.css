@@ -8,7 +8,7 @@
 }
 
 body {  
-  /*background-image: url("walpapper.jpg"); */
+  /* background-image: url("wallpaper.jpg"); */
   background-repeat: repeat;
 
   background-color: var(--color-background);
@@ -19,7 +19,6 @@ body {
 h2, h3, h4 {
   text-align: center;
 }
-
 h2:hover, h3:hover, h4:hover {
   color: var(--color-light-pink);
 }
@@ -43,14 +42,14 @@ footer {
 }
 
 .me-image {
-  background-image: url("eu.jpg");
+  background-image: url("img1.jpg");
   background-color: var(--color-background);
-  height: 667px;
+  height: 680px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover; 
   position: relative;
-  opacity: 0.6;
+  opacity: 0.5;
 }
 
 .me-text {
